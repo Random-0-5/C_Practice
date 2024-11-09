@@ -1,4 +1,2 @@
-﻿  1.5.06.c
-D:\Visual Studio\project\NOI\1.5.06.c(12,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Visual Studio\project\NOI\1.5.06.c(16,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  NOI.vcxproj -> D:\Visual Studio\project\NOI\x64\Debug\NOI.exe
+﻿  1.7.05.c
+  NOI.vcxproj -> D:\Git\C_Practice\C_Practice\NOI\x64\Debug\NOI.exe

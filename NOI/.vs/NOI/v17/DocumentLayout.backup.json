@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual Studio\\project\\NOI\\",
+  "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\NOI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|D:\\Visual Studio\\project\\NOI\\1.5.06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|solutionrelative:1.5.06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|solutionrelative:1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,16 +25,20 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1.5.06.c",
-              "DocumentMoniker": "D:\\Visual Studio\\project\\NOI\\1.5.06.c",
-              "RelativeDocumentMoniker": "1.5.06.c",
-              "ToolTip": "D:\\Visual Studio\\project\\NOI\\1.5.06.c",
-              "RelativeToolTip": "1.5.06.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Title": "1.7.05.c",
+              "DocumentMoniker": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
+              "RelativeDocumentMoniker": "1.7.05.c",
+              "ToolTip": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
+              "RelativeToolTip": "1.7.05.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-08T16:36:36.118Z",
+              "WhenOpened": "2024-11-09T16:18:10.907Z",
               "EditorCaption": ""
             }
           ]
