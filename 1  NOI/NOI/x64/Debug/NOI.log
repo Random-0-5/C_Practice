@@ -1,2 +1,3 @@
-﻿  1.7.05.c
-  NOI.vcxproj -> D:\Git\C_Practice\C_Practice\NOI\x64\Debug\NOI.exe
+﻿  1.5.16.c
+D:\Git\C_Practice\C_Practice\1  NOI\1.5.16.c(18,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NOI.vcxproj -> D:\Git\C_Practice\C_Practice\1  NOI\x64\Debug\NOI.exe

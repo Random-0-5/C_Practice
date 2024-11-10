@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\NOI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|solutionrelative:1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\1  NOI\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1.7.05.c",
-              "DocumentMoniker": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
-              "RelativeDocumentMoniker": "1.7.05.c",
-              "ToolTip": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
-              "RelativeToolTip": "1.7.05.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-09T16:18:10.907Z",
-              "EditorCaption": ""
             }
           ]
         }

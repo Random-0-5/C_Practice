@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\NOI\\",
+  "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\1  NOI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|solutionrelative:1.7.05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|D:\\Git\\C_Practice\\C_Practice\\1  NOI\\1.5.16.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{575A9530-81BF-408D-8AB1-4817CB13D586}|NOI.vcxproj|solutionrelative:1.5.16.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1.7.05.c",
-              "DocumentMoniker": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
-              "RelativeDocumentMoniker": "1.7.05.c",
-              "ToolTip": "D:\\Git\\C_Practice\\C_Practice\\NOI\\1.7.05.c",
-              "RelativeToolTip": "1.7.05.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAAjAAAAAAAAAA==",
+              "Title": "1.5.16.c",
+              "DocumentMoniker": "D:\\Git\\C_Practice\\C_Practice\\1  NOI\\1.5.16.c",
+              "RelativeDocumentMoniker": "1.5.16.c",
+              "ToolTip": "D:\\Git\\C_Practice\\C_Practice\\1  NOI\\1.5.16.c",
+              "RelativeToolTip": "1.5.16.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-09T16:18:10.907Z",
+              "WhenOpened": "2024-11-10T14:10:42.705Z",
               "EditorCaption": ""
             }
           ]
