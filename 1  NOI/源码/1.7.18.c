@@ -7,6 +7,15 @@
 否则，若第二个串s2是第一个串s1的子串，输出(s2) is substring of (s1)
 否则，输出 No substring。*/
 
+/*输入两个字符串，验证其中一个串是否为另一个串的子串。
+
+输入
+输入两个字符串， 每个字符串占一行，长度不超过200且不含空格。
+输出
+若第一个串s1是第二个串s2的子串，则输出(s1) is substring of (s2)
+否则，若第二个串s2是第一个串s1的子串，输出(s2) is substring of (s1)
+否则，输出 No substring。*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -23,52 +32,25 @@ int main(void) {
     str1[strcspn(str1, "\n")] = 0; // 去掉换行符
     str2[strcspn(str2, "\n")] = 0; // 去掉换行符
 
-    size_t len1 = strlen(str1);
-    size_t len2 = strlen(str2);
-
-    // 判断 str1 是否是 str2 的子串
-    for (size_t i = 0; i <= len2 - len1; i++) {
-        size_t j;
-        for (j = 0; j < len1; j++) {
-            if (str2[i + j] != str1[j]) {
-                break; // 字符不匹配，跳出内层循环
-            }
-        }
-        if (j == len1) {
-            // 找到了子串
-            printf("%s is substring of %s\n", str1, str2);
-            free(str1);
-            free(str2);
-            return 0; // 找到后立即结束程序
-        }
+    // 判断子串关系
+    if (strstr(str2, str1) != NULL) {
+        // str1是str2的子串
+        printf("%s is substring of %s\n", str1, str2);
+    } else if (strstr(str1, str2) != NULL) {
+        // str2是str1的子串
+        printf("%s is substring of %s\n", str2, str1);
+    } else {
+        // 都不是
+        printf("No substring\n");
     }
-
-    // 判断 str2 是否是 str1 的子串
-    for (size_t i = 0; i <= len1 - len2; i++) {
-        size_t j;
-        for (j = 0; j < len2; j++) {
-            if (str1[i + j] != str2[j]) {
-                break; // 字符不匹配，跳出内层循环
-            }
-        }
-        if (j == len2) {
-            // 找到了子串
-            printf("%s is substring of %s\n", str2, str1);
-            free(str1);
-            free(str2);
-            return 0; // 找到后立即结束程序
-        }
-    }
-
-    // 如果都没有找到
-    printf("No substring\n");
-
+    
     // 释放内存
     free(str1);
     free(str2);
-
+    
     return 0;
 }
+
 
 /*
 #include <stdio.h>
