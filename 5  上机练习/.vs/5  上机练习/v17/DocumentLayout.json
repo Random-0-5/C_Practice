@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Git\\C_Practice\\C_Practice\\5  \u4E0A\u673A\u7EC3\u4E60\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2022783C-4A50-4FDA-B7AD-581DC1704E24}|5  \u4E0A\u673A\u7EC3\u4E60.vcxproj|D:\\Git\\C_Practice\\C_Practice\\5  \u4E0A\u673A\u7EC3\u4E60\\2024.11.14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2022783C-4A50-4FDA-B7AD-581DC1704E24}|5  \u4E0A\u673A\u7EC3\u4E60.vcxproj|solutionrelative:2024.11.14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2024.11.14.c",
+              "DocumentMoniker": "D:\\Git\\C_Practice\\C_Practice\\5  \u4E0A\u673A\u7EC3\u4E60\\2024.11.14.c",
+              "RelativeDocumentMoniker": "2024.11.14.c",
+              "ToolTip": "D:\\Git\\C_Practice\\C_Practice\\5  \u4E0A\u673A\u7EC3\u4E60\\2024.11.14.c",
+              "RelativeToolTip": "2024.11.14.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-14T09:31:51.914Z",
+              "EditorCaption": ""
             }
           ]
         }

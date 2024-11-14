@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 int main(void) {
-    double sum = 0.0; 
-    double numerator = 2.0;
-    double denominator = 1.0; 
+    float sum = 0.0; 
+    float numerator = 2.0;
+    float denominator = 1.0; 
 
     for (int i = 0; i < 20; i++) {
         sum += numerator / denominator; 
-        double temp = numerator; 
+        float temp = numerator; 
         numerator += denominator; 
         denominator = temp; 
     }
