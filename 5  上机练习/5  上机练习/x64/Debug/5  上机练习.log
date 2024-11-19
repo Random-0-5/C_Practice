@@ -1,3 +1,4 @@
-﻿  2024.11.14_1.c
-D:\Git\C_Practice\C_Practice\5  上机练习\2024.11.14_1.c(16,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  16.c
+D:\Git\C_Practice\C_Practice\5  上机练习\16.c(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\C_Practice\C_Practice\5  上机练习\16.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   5  上机练习.vcxproj -> D:\Git\C_Practice\C_Practice\5  上机练习\x64\Debug\5  上机练习.exe
