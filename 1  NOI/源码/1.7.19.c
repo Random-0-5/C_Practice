@@ -12,26 +12,23 @@
 #include <string.h>
 #include <stdbool.h>
 
-bool is_substring_after_rotation(const char *s1, const char *s2) {
-    // 创建一个新字符串 s1s1，长度是 s1 的两倍
-    char s1s1[60]; // s1 的最大长度为 30，因此 s1s1 长度可以是 60
-    strcpy(s1s1, s1);      // 先复制 s1
-    strcat(s1s1, s1);      // 再将 s1 连接到自己后面
+bool substring(const char *s1, const char *s2) {
+    
+    char s1s1[60]; 
+    strcpy(s1s1, s1);     
+    strcat(s1s1, s1);      
 
-    // 检查 s2 是否是 s1s1 的子串
     return strstr(s1s1, s2) != NULL;
 }
 
 int main() {
-    char s1[31], s2[31]; // 定义字符串数组，长度最大为 30，留一个字符给结束符
-    // 输入两个字符串
+    char s1[31], s2[31];
     scanf("%s %s", s1, s2);
-    
-    // 输出结果
-    if (is_substring_after_rotation(s1, s2)) {
+
+    if (substring(s1, s2)) {
         printf("true\n");
     }
-    else if(is_substring_after_rotation(s2, s1)){
+    else if(substring(s2, s1)){
         printf("true\n");
     }
     else {
