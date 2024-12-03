@@ -1,6 +1,2 @@
-﻿  C语言20241128_1.c
-D:\Git\C_Practice\C_Practice\5  上机练习\C语言20241128_1.c(26,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Git\C_Practice\C_Practice\5  上机练习\C语言20241128_1.c(44,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Git\C_Practice\C_Practice\5  上机练习\C语言20241128_1.c(47,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\Git\C_Practice\C_Practice\5  上机练习\C语言20241128_1.c(51,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  二分查找.c
   5  上机练习.vcxproj -> D:\Git\C_Practice\C_Practice\5  上机练习\x64\Debug\5  上机练习.exe
