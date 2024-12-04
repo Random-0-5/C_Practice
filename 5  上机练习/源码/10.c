@@ -5,12 +5,12 @@
 #include<stdio.h>
 
 int main(void) {
-	int Peach_num=1;
+	int num=1;
 	for (int i = 1; i < 10; i++) {
-		Peach_num += 1;
-		Peach_num *= 2;
+		num += 1;
+		num *= 2;
 	}
 
-	printf("总数为 %d", Peach_num);
+	printf("总数为 %d", num);
 	return 0;
 }
