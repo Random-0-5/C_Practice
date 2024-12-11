@@ -1,2 +1,6 @@
-﻿  二分查找.c
+﻿  tese_1210.c
+D:\Git\C_Practice\C_Practice\5  上机练习\tese_1210.c(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\C_Practice\C_Practice\5  上机练习\tese_1210.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\C_Practice\C_Practice\5  上机练习\tese_1210.c(8,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\C_Practice\C_Practice\5  上机练习\tese_1210.c(9,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   5  上机练习.vcxproj -> D:\Git\C_Practice\C_Practice\5  上机练习\x64\Debug\5  上机练习.exe
