@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C语言20241212_1.c">
+    <ClCompile Include="paixu.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
